@@ -5,7 +5,7 @@
 Throughout this project, I'll gain hands-on experience with the following concepts and skills:
 
 * Email Header Analysis: Extracted and analyzed email metadata to trace the sender's IP and domain.
-* Threat Intelligence Tools: Used VirusTotal and OSINT platforms to investigate suspicious links and attachments.
+* Threat Intelligence Tools: Used MXTool and Kali Linux platforms to investigate suspicious links and attachments.
 * Network Troubleshooting: Identified and mitigated potential risks from phishing attempts in a secure environment.
 * Incident Documentation: Created detailed reports on phishing tactics and recommendations for prevention.
 * Secure Analysis Practices: Conducted all investigations in a controlled environment to prevent system compromise.
